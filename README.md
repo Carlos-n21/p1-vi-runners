@@ -1,2 +1,2 @@
 # vi-runners
-Site about Visual Impaired Runners from Bristol
+Site for Visual Impaired Runners group from Bristol
