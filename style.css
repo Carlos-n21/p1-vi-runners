@@ -1,0 +1,36 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+
+/* CSS variables */
+:root {
+  --primary-color: #000000;
+    --color-heading: #000080;
+    --primary-font: 'Roboto', "Oswald", sans-serif;
+    --font-weight: bold;
+    --font-style: uppercase;
+}
+
+/* Add your custom styles here */
+
+.img-fluid {
+  width: 100%;
+}
+
+.head-1 {
+  font-size: 1.5rem;
+  color: var(--color-heading);
+  font-family: var(--primary-font);
+  font-weight: var(--font-weight);
+  text-transform: var(--font-style);
+}
+
+.head-2 {
+  font-size: 1.25rem;
+  color: var(--color-heading);
+  font-family: var(--primary-font);
+  font-weight: var(--font-weight);
+  text-transform: var(--font-style);
+}
+
