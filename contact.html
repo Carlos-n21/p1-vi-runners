@@ -26,20 +26,21 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
+                    <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href="index.html" aria-describedby="home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html#about">About</a>
+                        <a class="nav-link" href="#about" aria-describedby="about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="gallery.html">Gallery</a>
+                        <a class="nav-link" href="gallery.html" aria-describedby="gallery">Gallery</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="location.html">Location</a>
+                        <a class="nav-link" href="location.html" aria-describedby="location">Location</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="contact.html#contactForm">Contact</a>
+                        <a class="nav-link active" href="contact.html#contactForm" aria-describedby="contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -50,21 +51,21 @@
 
     <!-- Main section -->
     <main class="container mt-5 mb-5 pt-5">
-        <h2 class="h4 head-2">Contact Us</h2>
+        <h2 class="h4 head-2"  aria-describedby="contact us">Contact Us</h2>
         <form id="contactForm" action="success.html" method="get">
             <div class="mb-3">
-                <label for="name" class="form-label">Name</label>
+                <label for="name" class="form-label"  aria-describedby="write your name">Name</label>
                 <input type="text" class="form-control" id="name" required>
             </div>
             <div class="mb-3">
-                <label for="email-address" class="form-label">Email</label>
+                <label for="email-address" class="form-label"  aria-describedby="write your email">Email</label>
                 <input type="email" class="form-control" id="email-address" required>
             </div>
             <div class="mb-3">
-                <label for="message" class="form-label">Message</label>
+                <label for="message" class="form-label"  aria-describedby="write your message">Message</label>
                 <textarea class="form-control" id="message" rows="5" required></textarea>
             </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="btn btn-primary"  aria-describedby="submit">Submit</button>
         </form>
     </main>
 
