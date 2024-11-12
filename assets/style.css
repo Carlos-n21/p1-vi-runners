@@ -41,10 +41,12 @@
 
 .footer { 
   position: fixed; 
-  bottom: 0; width: 100%; 
+  bottom: 0; 
+  width: 100%; 
   background-color: #f8f9fa; 
   text-align: center; 
-  padding: 10px 0;
+  padding: 5px 0;
+}
 
 .active { 
   text-decoration: underline; 
@@ -54,5 +56,10 @@
   height: 60%; 
   width: 100%; 
   object-fit: cover;
+}
+
+.main-content { 
+  flex: 1; 
+  padding-bottom: 60px; /* Ensure this matches the height of your footer */ 
 }
 
