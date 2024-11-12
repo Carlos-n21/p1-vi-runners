@@ -39,10 +39,20 @@
   padding-bottom: 1rem !important;
 }
 
-footer {
-  position: relative;
-  position: bottom;
-}
+.footer { 
+  position: fixed; 
+  bottom: 0; width: 100%; 
+  background-color: #f8f9fa; 
+  text-align: center; 
+  padding: 10px 0;
 
-  
+.active { 
+  text-decoration: underline; 
+} 
+
+.hero-image { 
+  height: 60%; 
+  width: 100%; 
+  object-fit: cover;
+}
 
