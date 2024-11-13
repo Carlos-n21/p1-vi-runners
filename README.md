@@ -65,6 +65,66 @@ These can be added in the future.
 User stories:
 
 [User story 1](https://github.com/Carlos-n21/p1-vi-runners/issues/1)
+Story: I am a VI runner that has moved to Bristol and looking to know more about other VI runners in the area and guides to go for a run.
+
+Acceptance criteria:
+Information about the group
+
+Tasks:
+Create a home page with information about the group
+
+[User story 2](https://github.com/Carlos-n21/p1-vi-runners/issues/2)
+Story: I am a VI runner that has lived and been racing with friends in Bristol area occasionally, and would like to meet more VI runners and days they run to start run with more people
+
+Acceptance criteria:
+Information about main locations for running
+Provide information about day(s) and time(s) when the group usually goes running
+
+Tasks
+Create a page/section with information about the location and time to meet
+
+[User story 3](https://github.com/Carlos-n21/p1-vi-runners/issues/3)
+User story: I am a VI runner that has been running with the group and wish to be able to have clear image and information of the site and content and to easily access different contents of it.
+
+Acceptance criteria:
+Provide alternative means of information for VI users that might have difficulty seeing the images and content of the site
+Make the site interactive and responsive
+
+Tasks
+Create a Navbar with high contrast for VI users and provide a description for verbal assistance.
+Showcase simple and concise information in small areas of the webpage.
+
+[User story 4](https://github.com/Carlos-n21/p1-vi-runners/issues/4)
+User story: I am a VI runner that would like to know more information about the group and also other sites/apps where they showcase the group
+
+Acceptance criteria
+Provide information about the social networks of the group
+Make social information easily available on the webpage
+
+Tasks
+Create a section with information about the different social networks for the group
+
+[User story 5](https://github.com/Carlos-n21/p1-vi-runners/issues/5)
+User story: I am a VI runner and would like to be able to contact the group for more information about different activities and lifts to meetings location
+
+Acceptance criteria:
+Provide a way for the user to contact the group
+Give feedback to the user that the message was sent
+
+Tasks
+Create a Contact us area in the webpage
+Create a message/feedback output for the user
+
+[User story 6](https://github.com/Carlos-n21/p1-vi-runners/issues/6)
+User story: I would like to see the comments and reviews from other group members about the meetings
+
+Acceptance criteria:
+Allow users to comment on the webpage about their experiences with the group
+Let members evaluate how much they enjoy the group
+
+Tasks:
+Create an area for users to write their comments
+Create a section displaying different user reviews/comments
 
 
 Languages used to build the webpage:
@@ -82,7 +142,7 @@ Validator Testing
 
 Each page performance can be checked with the following PDF files.
 
-  - [Home performance](readme-files/Home performance.pdf) 
+  <link href="readme-files/Home performance.pdf" target="_blanck" nonopener> 
   - [Gallery performance](readme-files/Gallery performance.pdf) 
   - [Location performance](readme-files/Location performance.pdf) 
   - [Contact performance](readme-files/Contact performance.pdf)
