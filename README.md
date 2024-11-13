@@ -142,10 +142,10 @@ Validator Testing
 
 Each page performance can be checked with the following PDF files.
 
-  <link href="readme-files/Home performance.pdf" target="_blanck" nonopener> 
-  - [Gallery performance](readme-files/Gallery performance.pdf) 
-  - [Location performance](readme-files/Location performance.pdf) 
-  - [Contact performance](readme-files/Contact performance.pdf)
+  - [Home performance](readme-files/readme-photos/home-performance.png)> 
+  - [Gallery performance](readme-files/readme-photos/gallery-performance.png) 
+  - [Location performance](readme-files/readme-photos/location-performance.png) 
+  - [Contact performance](readme-files/readme-photos/contact-performance.png)
 
 Contributing
 We welcome contributions from members of the Facebook Group mentioned above and the community. 
