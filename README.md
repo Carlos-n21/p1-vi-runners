@@ -22,6 +22,13 @@ Layout: Created using Balsamiq wireframes.
   <img src="readme-files/VI Runners Tablet Frame.png">
   <img src="readme-files/VI Runners Laptop Frame.png">
 
+
+All pages have same title, navbar and footer for consistency. Footer only has one link for Facebook as this group is not using other social networks.
+These can be added in the future.
+
+  <ing src="readme-files/readme-photos/title.png">    <img src="readme-files/readme-photos/navbar.png">   <img src="readme-files/readme-photos/link-to-social-facebook.png">
+
+
 Fonts Used: Roboto, Oswald, sans-serif.
 
 The idea is for the site to be accessible for visually impaired users.
@@ -37,7 +44,7 @@ The content on this site has been sourced from the group Facebook page, as AI wa
 Pages Overview
 1. Home
 Has a hero image for the group
-<img width="500" height="80" src="assets/images/hero.jpg">
+<img src="assets/images/hero.jpg">
 
 About us: Brief introduction to VI Runners Bristol and how the group works.
 <img src="readme-files/readme-photos/Welcome....png">
@@ -60,10 +67,6 @@ Meeting Points: Information on where we meet, including embedded Google Maps for
 Contact Form: A simple form to get in touch with us for more information or to join the group.
 <img src="readme-files/readme-photos/contact-us.png">
 
-All pages have same title, navbar and footer for consistency. Footer only has one link for Facebook as this group is not using other social networks.
-These can be added in the future.
-
-  <ing src="readme-files/readme-photos/title.png">    <img src="readme-files/readme-photos/navbar.png">   <img src="readme-files/readme-photos/link-to-social-facebook.png">
 
 User stories:
 
@@ -135,15 +138,15 @@ Languages used to build the webpage:
 - CSS
 - Bootsrap libraries
 
-Validator Testing 
+Validator Testing:
 
 - HTML
-  - Various errors were shown during validation, related to aria-describedby to try to add more information for screen reader tools, these were not able to be changed as not enough knowledge about it and what tools can be used, searched but not found much information [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - Various errors were shown during validation, related to aria-describedby to try to add more information for screen reader tools, these were not able to be changed as not enough knowledge about it and what tools can be used, searched but not found much information W3C validator
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official (Jigsaw) validator
 
 
-Each page performance can be checked with the following PDF files.
+Each page performance:
 
   <img src="readme-files/readme-photos/home-performance.png">   <img src="readme-files/readme-photos/gallery-performance.png">
   <img src="readme-files/readme-photos/location-performance.png">   <img src="readme-files/readme-photos/contact-performance.png">
@@ -155,10 +158,9 @@ Future features:
 - Add other features that VI users can find usefull for them
 
 Deployment:
-First deployment done on 12/11/2024 from the Github repository "p1-vi-runners", after creating a new environment.
+- First deployment done on 12/11/2024 from the Github repository "p1-vi-runners", after creating a new environment.
 [Github repository](https://github.com/Carlos-n21/p1-vi-runners)
-
-Further deployments done after fixing errors/bugs on deployment.
+- Further deployments done after fixing errors/bugs on deployment.
 
 Credits
 Website Development: Carlos N.
