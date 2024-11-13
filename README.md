@@ -21,11 +21,11 @@ Coded with: Copilot AI assistance and Bootstrap framework.
 
 Initial Layout: Created using Balsamiq wireframes.
 
-readme-files/VI Runners Mobile Frame.png
+  - [Wireframe File](readme-files/VI-Runners.bmpr)
 
-readme-files/VI Runners Tablet Frame.png
-
-readme-files/VI Runners Laptop Frame.png
+  - ![VI Runners Mobile Frame](readme-files/VI Runners Mobile Frame.png)
+  - ![VI Runners Tablet Frame](readme-files/VI Runners Tablet Frame.png) 
+  - ![VI Runners Laptop Frame](readme-files/VI Runners Laptop Frame.png)
 
 Fonts Used: Roboto, Oswald, sans-serif.
 
@@ -39,8 +39,6 @@ Pages Overview
 Welcome Message: Brief introduction to VI Runners Bristol.
 
 Running Benefits: Short list of overall physical and mental health benefits of running.
-
-This 
 
 2. About
 Group Information: Comprehensive details about our community, meeting schedules, all abilities and experience levels welcomed.
@@ -58,8 +56,16 @@ Contact Form: A simple form to get in touch with us for more information or to j
 
 Each page has a Facebook link on the footer for the Group Page, offering the user the possiblity to get further information and a way to communicate with the group and its members. This a group open to the public.
 
+Each page performance can be checked with the following PDF files.
+
+  - [Home performance](readme-files/Home performance.pdf) 
+  - [Gallery performance](readme-files/Gallery performance.pdf) 
+  - [Location performance](readme-files/Location performance.pdf) 
+  - [Contact performance](readme-files/Contact performance.pdf)
+
 Contributing
-We welcome contributions from the community. Feel free to fork the repository and submit pull requests.
+We welcome contributions from members of the Facebook Group mentioned above and the community. 
+Feel free to fork the repository and submit pull requests.
 
 License
 No licensing at the moment.
@@ -72,3 +78,4 @@ Copilot AI Assistance: Provided intelligent code suggestions.
 Bootstrap: CSS framework for responsive design.
 
 Content: Sourced from the VI Runners Bristol Facebook group.
+
