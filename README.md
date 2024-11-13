@@ -30,11 +30,12 @@ For the tile and heading used blue (#0000FF). This provides a high contrast rati
 Content Source
 The content on this site has been sourced from the group Facebook page, as AI was unable to generate realistic images using AI as shown below:
 
-<img src="readme-files/readme-photos/vi-run-2.jpg"> <img src="readme-files/readme-photos/vi-runners-1.jpg">
+<ing src="readme-files/readme-photos/title.png">    <img src="readme-files/readme-photos/vi-run-2.jpg">   <img src="readme-files/readme-photos/vi-runners-1.jpg">
 
 Pages Overview
 1. Home
 Has a hero image for the group
+<img width="500" height="80" src="assets/images/hero.jpg">
 
 About us: Brief introduction to VI Runners Bristol and how the group works.
 <img src="readme-files/readme-photos/Welcome....png">
@@ -130,7 +131,7 @@ Create a section displaying different user reviews/comments
 Languages used to build the webpage:
 - HTML
 - CSS
-- Bootsrap classes
+- Bootsrap libraries
 
 Validator Testing 
 
@@ -142,14 +143,8 @@ Validator Testing
 
 Each page performance can be checked with the following PDF files.
 
-  - [Home performance](readme-files/readme-photos/home-performance.png)> 
-  - [Gallery performance](readme-files/readme-photos/gallery-performance.png) 
-  - [Location performance](readme-files/readme-photos/location-performance.png) 
-  - [Contact performance](readme-files/readme-photos/contact-performance.png)
-
-Contributing
-We welcome contributions from members of the Facebook Group mentioned above and the community. 
-Feel free to fork the repository and submit pull requests.
+  <img src="readme-files/readme-photos/home-performance.png">   <img src="readme-files/readme-photos/gallery-performance.png">
+  <img src="readme-files/readme-photos/location-performance.png">   <img src="readme-files/readme-photos/contact-performance.png">
 
 Future features:
 - Get contact form to work properly by creating an email for the group after discussion with members or take this feature and have communication done via Facebook page
@@ -158,6 +153,12 @@ Future features:
 - Create backend part of the website and make it usable by non-coders.
 - Search for accessibility tools to improve screen reader information for VI users
 - Add other features that group users can find usefull for them
+
+Deployment
+First deployment done on 12/11/2024 from the Github repository "p1-vi-runners", after creating a new environment.
+[Github repository](https://github.com/Carlos-n21/p1-vi-runners)
+
+Further deployments done after fixing errors/bugs on deployment.
 
 Credits
 Website Development: Carlos N.
