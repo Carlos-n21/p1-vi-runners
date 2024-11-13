@@ -86,8 +86,13 @@ Contributing
 We welcome contributions from members of the Facebook Group mentioned above and the community. 
 Feel free to fork the repository and submit pull requests.
 
-License
-No licensing at the moment.
+Future features:
+- Get contact form to work properly by creating an email for the group after discussion with members or take this feature and have communication done via Facebook page
+- Add more interactivity to the site, pending accessibility evaluation and impact on visually impaired users, if meaningful
+- Add comments/reviews area/page for other users to see how group members feel about it
+- Create backend part of the website and make it usable by non-coders.
+- Search for accessibility tools to improve screen reader information for VI users
+- Add other features that group users can find usefull for them
 
 Credits
 Website Development: Carlos N.
