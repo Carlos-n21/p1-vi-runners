@@ -62,6 +62,11 @@ These can be added in the future.
 
 <img src="readme-files/readme-photos/navbar.png">   <img src="readme-files/readme-photos/link-to-social-facebook.png">
 
+User stories:
+
+[User story 1](https://github.com/Carlos-n21/p1-vi-runners/issues/1)
+
+
 Languages used to build the webpage:
 - HTML
 - CSS
