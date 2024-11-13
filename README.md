@@ -21,7 +21,11 @@ Coded with: Copilot AI assistance and Bootstrap framework.
 
 Initial Layout: Created using Balsamiq wireframes.
 
+readme-files/VI Runners Mobile Frame.png
 
+readme-files/VI Runners Tablet Frame.png
+
+readme-files/VI Runners Laptop Frame.png
 
 Fonts Used: Roboto, Oswald, sans-serif.
 
@@ -34,7 +38,9 @@ Pages Overview
 1. Home
 Welcome Message: Brief introduction to VI Runners Bristol.
 
-Running Benefits: Detailed list of the physical and mental health benefits of running.
+Running Benefits: Short list of overall physical and mental health benefits of running.
+
+This 
 
 2. About
 Group Information: Comprehensive details about our community, meeting schedules, all abilities and experience levels welcomed.
