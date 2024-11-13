@@ -22,6 +22,7 @@ Coded with: Copilot AI assistance and Bootstrap framework.
 Initial Layout: Created using Balsamiq wireframes.
 
 
+
 Fonts Used: Roboto, Oswald, sans-serif.
 
 Design: High contrast ratio with a white background and black text, complemented by blue titles and headings for readability and visual appeal.
@@ -36,9 +37,9 @@ Welcome Message: Brief introduction to VI Runners Bristol.
 Running Benefits: Detailed list of the physical and mental health benefits of running.
 
 2. About
-Group Information: Comprehensive details about our community, meeting schedules, and welcoming note to all abilities and experience levels.
+Group Information: Comprehensive details about our community, meeting schedules, all abilities and experience levels welcomed.
 
-Guides: Information on our volunteer guides who assist visually impaired runners.
+General benefits of running.
 
 3. Gallery
 Images: A collection of images showcasing our group activities, from runs to social gatherings.
@@ -48,6 +49,8 @@ Meeting Points: Information on where we meet, including embedded Google Maps for
 
 5. Contact
 Contact Form: A simple form to get in touch with us for more information or to join the group.
+
+Each page has a Facebook link on the footer for the Group Page, offering the user the possiblity to get further information and a way to communicate with the group and its members. This a group open to the public.
 
 Contributing
 We welcome contributions from the community. Feel free to fork the repository and submit pull requests.
