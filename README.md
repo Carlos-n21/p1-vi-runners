@@ -9,10 +9,10 @@ Welcome to the website of VI Runners Bristol, a community group for visually imp
 This website serves as an informative platform for existing and prospective members to learn more about our activities, benefits of running, and how to join us.
 
 Facebook Group:
-This website website is based on our active Facebook group: [VI Runners Bristol Facebook Group](https://www.facebook.com/groups/1890506954520150/)
+This website website is based on the active Facebook group: [VI Runners Bristol Facebook Group](https://www.facebook.com/groups/1890506954520150/)
 
 Development Details
-Coded with: Copilot AI assistance and Bootstrap framework.
+Coded with: Copilot AI assistance and Bootstrap libraries.
 
 Layout: Created using Balsamiq wireframes.
 
@@ -24,13 +24,15 @@ Layout: Created using Balsamiq wireframes.
 
 Fonts Used: Roboto, Oswald, sans-serif.
 
-The idea is for the site to be accessible for visually impaired users, the background color used was white (#FFFFFF) and the font color was black (#000000) for the main content.
-For the tile and heading used blue (#0000FF). This provides a high contrast ratio of 21:1 for the main content. Provided by [WebAIM](https://webaim.org/resources/contrastchecker/?fcolor=0000FF&bcolor=FFFFFF)
+The idea is for the site to be accessible for visually impaired users.
+The background color used was white (#FFFFFF) and the font color was black (#000000) for the main content.
+This provides a high contrast ratio of 21:1 for the main content. Provided by [WebAIM](https://webaim.org/resources/contrastchecker/?fcolor=0000FF&bcolor=FFFFFF)
+For the tile and heading used blue (#0000FF) with a contrast ratio 8.59:1. 
 
 Content Source
 The content on this site has been sourced from the group Facebook page, as AI was unable to generate realistic images using AI as shown below:
 
-<ing src="readme-files/readme-photos/title.png">    <img src="readme-files/readme-photos/vi-run-2.jpg">   <img src="readme-files/readme-photos/vi-runners-1.jpg">
+   <img src="readme-files/readme-photos/vi-run-2.jpg">   <img src="readme-files/readme-photos/vi-runners-1.jpg">
 
 Pages Overview
 1. Home
@@ -61,7 +63,7 @@ Contact Form: A simple form to get in touch with us for more information or to j
 All pages have same title, navbar and footer for consistency. Footer only has one link for Facebook as this group is not using other social networks.
 These can be added in the future.
 
-<img src="readme-files/readme-photos/navbar.png">   <img src="readme-files/readme-photos/link-to-social-facebook.png">
+  <ing src="readme-files/readme-photos/title.png">    <img src="readme-files/readme-photos/navbar.png">   <img src="readme-files/readme-photos/link-to-social-facebook.png">
 
 User stories:
 
@@ -147,14 +149,12 @@ Each page performance can be checked with the following PDF files.
   <img src="readme-files/readme-photos/location-performance.png">   <img src="readme-files/readme-photos/contact-performance.png">
 
 Future features:
-- Get contact form to work properly by creating an email for the group after discussion with members or take this feature and have communication done via Facebook page
 - Add more interactivity to the site, pending accessibility evaluation and impact on visually impaired users, if meaningful
 - Add comments/reviews area/page for other users to see how group members feel about it
-- Create backend part of the website and make it usable by non-coders.
 - Search for accessibility tools to improve screen reader information for VI users
-- Add other features that group users can find usefull for them
+- Add other features that VI users can find usefull for them
 
-Deployment
+Deployment:
 First deployment done on 12/11/2024 from the Github repository "p1-vi-runners", after creating a new environment.
 [Github repository](https://github.com/Carlos-n21/p1-vi-runners)
 
@@ -163,9 +163,4 @@ Further deployments done after fixing errors/bugs on deployment.
 Credits
 Website Development: Carlos N.
 
-Copilot AI Assistance: Provided intelligent code suggestions.
-
-Bootstrap: CSS framework for responsive design.
-
-Content: Sourced from the VI Runners Bristol Facebook group.
 
