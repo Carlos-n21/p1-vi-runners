@@ -26,7 +26,7 @@ Layout: Created using Balsamiq wireframes.
 All pages have same title, navbar and footer for consistency. Footer only has one link for Facebook as this group is not using other social networks.
 These can be added in the future.
 
-  <ing src="readme-files/readme-photos/title.png">    
+  <img src="readme-files/readme-photos/title.png">    
   <img src="readme-files/readme-photos/navbar.png">   
   <img src="readme-files/readme-photos/link-to-social-facebook.png">
 
