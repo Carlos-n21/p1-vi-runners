@@ -18,9 +18,9 @@ Layout: Created using Balsamiq wireframes.
 
   - [Wireframe File](readme-files/VI-Runners.bmpr)
 
-  - ![VI Runners Mobile Frame](readme-files/VI Runners Mobile Frame.png)
-  - ![VI Runners Tablet Frame](readme-files/VI Runners Tablet Frame.png) 
-  - ![VI Runners Laptop Frame](readme-files/VI Runners Laptop Frame.png)
+  <img src="readme-files/VI Runners Mobile Frame.png">
+  <img src="readme-files/VI Runners Tablet Frame.png">
+  <img src="readme-files/VI Runners Laptop Frame.png">
 
 Fonts Used: Roboto, Oswald, sans-serif.
 
@@ -30,36 +30,42 @@ For the tile and heading used blue (#0000FF). This provides a high contrast rati
 Content Source
 The content on this site has been sourced from the group Facebook page, as AI was unable to generate realistic images using AI as shown below:
 
-<img src="readme-files/readme-photos/vi-run-2.jpg">
-<img src="readme-files/readme-photos/vi-runners-1.jpg">
+<img src="readme-files/readme-photos/vi-run-2.jpg"> <img src="readme-files/readme-photos/vi-runners-1.jpg">
 
 Pages Overview
 1. Home
 Has a hero image for the group
 
 About us: Brief introduction to VI Runners Bristol and how the group works.
-<img alt="About area" src="readme-files/readme-photos/Welcome....png">
+<img src="readme-files/readme-photos/Welcome....png">
 
 Running Benefits: Short list of overall physical and mental health benefits of running.
-<img alt="Running benefits" src="readme-files/readme-photos/Benefits.png">
+<img src="readme-files/readme-photos/Benefits.png">
 
 2. About
-Links to the "About us" part on the home page, links to "Welcome" area of home page
+Links to the "About us" part on the home page.
 
 3. Gallery
 Images: A collection of images showcasing our group activities, from runs to social gatherings.
-<img alt="Gallery" src="readme-files/readme-photos/gallery.png">
+<img src="readme-files/readme-photos/gallery.png">
 
 4. Location
 Meeting Points: Information on where we meet, including embedded Google Maps for easy navigation.
-<img alt="Image of maps" src="readme-files/readme-photos/location-maps.png">
+<img src="readme-files/readme-photos/location-maps.png">
 
 5. Contact
 Contact Form: A simple form to get in touch with us for more information or to join the group.
-<img alt="Conctat form image" src="readme-files/readme-photos/contact-us.png">
+<img src="readme-files/readme-photos/contact-us.png">
 
 All pages have same title, navbar and footer for consistency. Footer only has one link for Facebook as this group is not using other social networks.
 These can be added in the future.
+
+<img src="readme-files/readme-photos/navbar.png">   <img src="readme-files/readme-photos/link-to-social-facebook.png">
+
+Languages used to build the webpage:
+- HTML
+- CSS
+- Bootsrap classes
 
 Validator Testing 
 
@@ -68,8 +74,6 @@ Validator Testing
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-
-Each page has a Facebook link on the footer for the Group Page, offering the user the possiblity to get further information and a way to communicate with the group and its members. This a group open to the public.
 
 Each page performance can be checked with the following PDF files.
 
